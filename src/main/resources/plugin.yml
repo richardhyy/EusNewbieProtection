@@ -1,0 +1,5 @@
+name: EusNewbieProtection
+version: ${project.version}
+main: cc.eumc.eusnewbieprotection.EusNewbieProtection
+api-version: 1.13
+authors: [EucalyptusLeaves]

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="EusNewbieProtection:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EusNewbieProtection_jar</output-path>
+    <root id="archive" name="EusNewbieProtection.jar">
+      <element id="module-output" name="EusNewbieProtection" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
